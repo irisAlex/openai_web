@@ -458,8 +458,6 @@ const sk: PartialLocaleType = {
     Close: "Zavrieť",
     Create: "Vytvoriť",
     Edit: "Upraviť",
-    Export: "Exportovať",
-    Import: "Importovať",
     Sync: "Synchronizovať",
     Config: "Konfigurácia",
   },

@@ -454,8 +454,6 @@ const en: LocaleType = {
     Close: "Close",
     Create: "Create",
     Edit: "Edit",
-    Export: "Export",
-    Import: "Import",
     Sync: "Sync",
     Config: "Config",
   },

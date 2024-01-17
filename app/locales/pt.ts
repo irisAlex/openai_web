@@ -441,8 +441,6 @@ const pt: PartialLocaleType = {
     Close: "Fechar",
     Create: "Criar",
     Edit: "Editar",
-    Export: "Exportar",
-    Import: "Importar",
     Sync: "Sincronizar",
     Config: "Configurar",
   },
