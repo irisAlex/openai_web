@@ -48,7 +48,7 @@ const en: LocaleType = {
     Commands: {
       new: "Start a new chat",
       newm: "Start a new chat with mask",
-      next: "Next Chat",
+      next: "Ai Chat",
       prev: "Previous Chat",
       clear: "Clear Context",
       del: "Delete Chat",
@@ -122,7 +122,7 @@ const en: LocaleType = {
       "Resetting will clear the current conversation history and historical memory. Are you sure you want to reset?",
   },
   Home: {
-    NewChat: "New Chat",
+    NewChat: "Ai Chat",
     DeleteChat: "Confirm to delete the selected conversation?",
     DeleteToast: "Chat Deleted",
     Revert: "Revert",
